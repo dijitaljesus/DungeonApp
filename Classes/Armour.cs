@@ -4,7 +4,10 @@ namespace DungeonApp {
 
 
         public string Name = "";
+
         public int Cost;
+
+        public int Weight;
 
         
 

@@ -24,6 +24,8 @@ namespace DungeonApp
 
             Console.WriteLine("Player Name: {0}", myPlayer.Name);
             Console.WriteLine("Health: {0}", myPlayer.Health);
+            
+            Gold.Increase(Engine.RandomNumber(100,500));
 
         }
 
