@@ -9,7 +9,7 @@ namespace DungeonApp {
 
         public int Weight;
 
-        
+        public bool Equipped;
 
 
 

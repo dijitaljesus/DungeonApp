@@ -20,10 +20,7 @@ class Gold {
     }
 
     public static int Weight() {
-
         return Convert.ToInt32((Convert.ToDouble(_amount) * _weight));
-
-
     }
 
 }
