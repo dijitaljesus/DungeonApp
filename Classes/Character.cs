@@ -1,6 +1,6 @@
 namespace DungeonApp {
 
-    class Character {
+    public class Character {
     
             public int Health;
             

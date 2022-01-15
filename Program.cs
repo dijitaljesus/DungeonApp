@@ -5,6 +5,10 @@
         static void Main(string[] args)
         {
 
+            Save.SaveXML();
+
+
+            /*
             Engine Game = new Engine();
             Game.PlayerCreation();
 
@@ -12,13 +16,11 @@
 
             while (Events > 0) {
 
-                
                 Game.Event();
-
                 Events -= 1;
 
             }
-
+            */
         }
     }
 }

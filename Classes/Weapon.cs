@@ -7,13 +7,10 @@ namespace DungeonApp {
         public int Damage;
         
         public string Type = "";
-
         public int Cost;
-
         public int Weight;
 
         public bool Equipped;
-
 
     }
 
